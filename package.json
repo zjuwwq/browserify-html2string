@@ -1,0 +1,28 @@
+{
+  "name": "browserify-html2string",
+  "version": "1.0.7",
+  "description": "a browserify transform which export string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjuwwq/browserify-html2string.git"
+  },
+  "keywords": [
+    "browserify",
+    "transform",
+    "html",
+    "string"
+  ],
+  "author": "Wei Wenqing <zjuwwq@gmail.com> (https://github.com/zjuwwq)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjuwwq/browserify-html2string/issues"
+  },
+  "homepage": "https://github.com/zjuwwq/browserify-html2string",
+  "dependencies": {
+    "through": "^2.3.6"
+  }
+}
